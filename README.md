@@ -11,12 +11,5 @@ Task: Perimeter of Triangle
 Think of a class as a blueprint of a house. It contains all the details about the floors, doors, windows etc. Based on these descriptions we build the house. The actual physical house is the object.
 
 
-class Student:
-    pass
-
-student1 = Student()
-student2 = Student()
-
-
 
 
