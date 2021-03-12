@@ -20,4 +20,8 @@ class Student:
 student1 = Student()
 student2 = Student()
 
+Here, student1 and student2 are objects of the Student class.
+
+Now, we can start adding different attributes to these object instances.
+
 
