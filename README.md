@@ -22,6 +22,6 @@ student2 = Student()
 
 Here, student1 and student2 are objects of the Student class.
 
-Now, we can start adding different attributes to these object instance.
+Now, we are going to start adding different attributes to these object instance.
 
 
