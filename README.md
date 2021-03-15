@@ -41,3 +41,17 @@ student1.marks = 85
 
 did_pass = student1.check_pass_fail()
 print(did_pass)
+
+
+Here, the check_pass_fail() method is defined inside the Student class.
+
+Now, any object created from the Student class can access this method.
+
+We have called this method without passing any arguments, however, the method definition takes one argument named self.
+
+Whenever we define methods for a class, we need to use self as the first parameter. This self represents the object calling it. In our example, self refers to the student1 object, and self.marks refers to the marks attribute of student1.
+
+Let's try the same for another student object.
+
+
+![Screen Shot 2021-03-14 at 11 16 46 AM](https://user-images.githubusercontent.com/69153433/111111754-26e25600-8574-11eb-8965-a3d0751a2852.png)
