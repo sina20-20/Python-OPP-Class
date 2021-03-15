@@ -1,5 +1,5 @@
 # Python Object-Oriented Programming
-## Welcome to this part.
+## Welcome to this Class
 
 
 In This lession,i am going to talk about below topics as below:
