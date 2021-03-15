@@ -54,4 +54,4 @@ Whenever we define methods for a class, we need to use self as the first paramet
 Let's try the same for another student object.
 
 
-![Screen Shot 2021-03-14 at 11 16 46 AM](https://user-images.githubusercontent.com/69153433/111111754-26e25600-8574-11eb-8965-a3d0751a2852.png)
+
