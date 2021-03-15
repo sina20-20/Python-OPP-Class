@@ -24,6 +24,9 @@ Here, student1 and student2 are objects of the Student class.
 
 Now, we are going to start adding different attributes to these object instance.
 
+Let's now see how we can define methods inside a class.
+
+
 
 class Student:
     def check_pass_fail(self):
