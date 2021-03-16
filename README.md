@@ -51,7 +51,6 @@ We have called this method without passing any arguments, however, the method de
 
 Whenever we define methods for a class, we need to use self as the first parameter. This self represents the object calling it. In our example, self refers to the student1 object, and self.marks refers to the marks attribute of student1.
 
-Let's try the same for another student object.
 
 
 
