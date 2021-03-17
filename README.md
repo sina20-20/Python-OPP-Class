@@ -42,6 +42,7 @@ student1.marks = 85
 did_pass = student1.check_pass_fail()
 print(did_pass)
 
+------------------------------------------
 
 Here, the check_pass_fail() method is defined inside the Student class.
 
