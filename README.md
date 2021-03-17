@@ -44,7 +44,7 @@ print(did_pass)
 
 ------------------------------------------
 
-Here, the check_pass_fail() method is defined inside the Student class.
+Here, the check_pass_fail() method is defined inside the Student class
 
 Now, any object created from the Student class can access this method.
 
