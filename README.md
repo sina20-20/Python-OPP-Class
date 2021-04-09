@@ -36,7 +36,6 @@ class Student:
 
 student1 = Student()
 student1.name = "Harry"
-student1.marks = 85
 
 did_pass = student1.check_pass_fail()
 print(did_pass)
