@@ -17,8 +17,6 @@ here is a class,
 class Student:
     pass
 
-student1 = Student()
-
 Here, student1 and student2 are objects of the Student class.
 
 Now, we are going to start adding different attributes to these object instance.
