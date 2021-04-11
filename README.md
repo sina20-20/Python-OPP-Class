@@ -15,7 +15,6 @@ Think of a class as a blueprint of a house. It contains all the details about th
 
 here is a class,
 class Student:
-    pass
 
 Here, student1 and student2 are objects of the Student class.
 
