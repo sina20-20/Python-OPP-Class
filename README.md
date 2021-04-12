@@ -32,8 +32,6 @@ class Student:
             return False
 
 student1 = Student()
-student1.name = "Harry"
-
 did_pass = student1.check_pass_fail()
 print(did_pass)
 
