@@ -32,6 +32,9 @@ class Student:
 
 student1 = Student()
 did_pass = student1.check_pass_fail()
+
+
+As shown in the following figure, the same object name can be present in multiple namespaces as isolation between the same name is maintained by their namespace.
 print(did_pass)
 
 ------------------------------------------
