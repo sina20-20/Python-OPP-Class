@@ -2,7 +2,6 @@
 ## Welcome to this Class
 
 
-In This lession, i am going to talk about below topics as below:
 
 #Python Classes and Objects:
 The __init__() Method
