@@ -14,23 +14,6 @@ Think of a class as a blueprint of a house. It contains all the details about th
 
 class Student:
 
-Here, student1 and student2 are objects of the Student class.
-
-Now, we are going to start adding different attributes to these object instance.
-
-Let's now see how we can define methods inside a class.
-
-
-
-class Student:
-    def check_pass_fail(self):
-        if self.marks >= 40:
-            return True
-        else:
-            return False
-
-student1 = Student()
-did_pass = student1.check_pass_fail()
 
 
 As shown in the following figure, the same object name can be present in multiple namespaces as isolation between the same name is maintained by their namespace.
