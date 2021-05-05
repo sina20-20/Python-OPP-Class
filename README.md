@@ -3,8 +3,7 @@
 
 
 
-#Python Classes and Objects:
-The __init__() Method
+
 Example: Add Two Complex Numbers
 Why object-oriented programming?
 Task: Perimeter of Triangle
