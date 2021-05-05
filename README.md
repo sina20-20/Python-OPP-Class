@@ -29,7 +29,7 @@ We have called this method without passing any arguments, however, the method de
 
 Whenever we define methods for a class, we need to use self as the first parameter. This self represents the object calling it. In our example, self refers to the student1 object, and self.marks refers to the marks attribute of student1.
 
-
+Django is a Python-based web framework that allows you to quickly create efficient web applications. It is also called batteries included framework because Django provides built-in features for everything including Django Admin Interface, default database – SQLlite3, etc. When you’re building a website, you always need a similar set of components: a way to handle user authentication (signing up, signing in, signing out), a management panel for your website, forms, a way to upload files, etc. Django gives you ready-made components to use and that too for rapid development.
 The __init__() Method
 
 Adding attributes to the object manually after defining it is not a good practice.
