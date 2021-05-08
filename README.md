@@ -4,7 +4,6 @@
 
 
 
-Example: Add Two Complex Numbers
 Why object-oriented programming?
 Task: Perimeter of Triangle
 
