@@ -1,5 +1,4 @@
 # Python Object-Oriented Programming
-## Welcome to this Class
 
 
 
