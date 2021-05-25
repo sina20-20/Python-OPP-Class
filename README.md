@@ -9,7 +9,6 @@ Task: Perimeter of Triangle
 # Python Classes and Objects
 Think of a class as a blueprint of a house. It contains all the details about the floors, doors, windows etc. Based on these descriptions we build the house. The actual  house is the object.
 
- Student:
 
 
 
